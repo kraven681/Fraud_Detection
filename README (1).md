@@ -375,4 +375,4 @@ pip install pandas numpy matplotlib seaborn scikit-learn==1.6.1 joblib gradio
 - Fraud appears **only** in TRANSFER and CASH_OUT transactions.
 - A balance dropping to zero after a transfer is a strong fraud indicator.
 - The dataset is **severely imbalanced** (0.13% fraud), requiring `class_weight="balanced"` in the model.
-- Logistic regression with preprocessing delivers a strong, interpretable baseline for this problem.
+- Logistic regression with preprocessing delivers a strong, interpretable baseline for t<img width="1485" height="885" alt="10_gradio_app" src="https://github.com/user-attachments/assets/cd8d3de2-27c4-4f54-a228-5d9c9b86cce2" />
